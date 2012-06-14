@@ -1,7 +1,19 @@
 /plugin.xml
 grails-*.zip
-target/
+.link_to_grails_plugins
+/target/
+/target-eclipse/
 c.tld
 fmt.tld
 stacktrace.log
 
+*.iws
+*Db.properties
+*Db.script
+/*.log
+/*DB.*
+/cobertura.ser
+.DS_Store
+/out/
+/web-app/plugins
+/web-app/WEB-INF/classes
