@@ -5,7 +5,7 @@ The Plugin provides the JavaScript library Modernizr. Modernizr helps you build 
 It offers the un-minified version of the JavaScript-Library in the Development-Stage and the minified elseways.
 It integrates nicely with the resources plugin.
 
-Note: The plugin is esp. useful in Development-Stage. For an optimal experience in production it better to build your specific version 
+Note: The plugin is esp. useful in Development-Stage. For an optimal experience in production it is better to build your specific version 
 of the JavaScript-Library as it is unlikely that you will use all of the over 40+ tests. Checkout http://www.modernizr.com/download/ for a cumstomized version.
 
 What is it?
