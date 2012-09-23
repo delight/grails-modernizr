@@ -1,5 +1,5 @@
 package modernizr
 
 class ModernizrConfig {
-	static SHIPPED_VERSION = '2.5.3'
+	static SHIPPED_VERSION = '2.6.2'
 }
