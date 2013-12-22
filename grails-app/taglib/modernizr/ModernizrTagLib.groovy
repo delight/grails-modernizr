@@ -1,8 +1,11 @@
 package modernizr
 
-class ModernizrTagLib {
+class ModernirzTagLib {
+	
+   	static namespace = "mod"
+    static defaultEncodeAs = 'none'
+    //static encodeAsForTags = [tagName: 'raw']
 
-	static namespace = "mod"
 
 	def modernizr = { attrs ->
 		def dev = grails.util.GrailsUtil.isDevelopmentEnv()
