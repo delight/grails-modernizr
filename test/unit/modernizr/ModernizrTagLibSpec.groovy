@@ -6,8 +6,8 @@ import spock.lang.Specification
 /**
  * See the API for {@link grails.test.mixin.web.GroovyPageUnitTestMixin} for usage instructions
  */
-@TestFor(ModernirzTagLib)
-class ModernirzTagLibSpec extends Specification {
+@TestFor(ModernizrTagLib)
+class ModernizrTagLibSpec extends Specification {
 
 	def modernizrVersion = ModernizrConfig.SHIPPED_VERSION
 

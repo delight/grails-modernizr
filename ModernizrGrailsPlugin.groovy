@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 class ModernizrGrailsPlugin {
-    def version = "2.7.1"
+    def version = "2.7.1.1"
     def grailsVersion = "1.3 > *"
     def title = "Modernizr for Grails"
     def author = "Konstantinos Kostarellis"

@@ -1,6 +1,6 @@
 package modernizr
 
-class ModernirzTagLib {
+class ModernizrTagLib {
 	
    	static namespace = "mod"
     static defaultEncodeAs = 'none'
